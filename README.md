@@ -18,7 +18,7 @@ Cinco aplicaciones web que he construido en el año 2026. **El código fuente es
 
 - **Pruebas y control de calidad desde el inicio:** pruebas unitarias, de reglas de seguridad de la base de datos y de navegador, con integración continua donde aplica.
 - **Decisiones documentadas:** cada proyecto lleva sus decisiones y límites por escrito, no solo el código.
-- **Datos personales:** las apps de uso familiar son privadas y sus datos reales no aparecen aquí. Las capturas son de páginas públicas o de datos ficticios.
+- **Datos personales:** las apps de uso familiar son privadas y sus datos reales no aparecen aquí. Las capturas son de páginas públicas o de las propias aplicaciones, con los nombres sustituidos y los datos reemplazados por valores ilustrativos.
 
 ## Contacto
 

@@ -2,7 +2,7 @@
 
 Aplicación de **bienestar familiar y gamificación**, pensada para fomentar el movimiento y las pausas activas en casa. Lejos de los enfoques clínicos o de los rastreadores de gimnasio, convierte las rutinas en una experiencia lúdica y accesible para todas las edades.
 
-**Estado:** uso privado en familia. · **Sitio:** [gym-ordoc.web.app](https://gym-ordoc.web.app/) (acceso con cuenta)
+**Estado:** en uso por un grupo de familias pequeño. · **Sitio:** [gym-ordoc.web.app](https://gym-ordoc.web.app/) (acceso con cuenta)
 
 <p>
   <img src="img/hoy.png" width="260" alt="Pantalla Hoy">

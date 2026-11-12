@@ -2,7 +2,7 @@
 
 Aplicación de **organización escolar familiar con gamificación**, instalable en el celular (PWA). Reúne la agenda, las tareas, las notas y las metas de los hijos, con una mascota que se cuida, un modo pensado para niños y un asistente de IA llamado Nova.
 
-**Estado:** uso privado en familia. · **Sitio:** [academyx-c0135.web.app](https://academyx-c0135.web.app/) (acceso con cuenta)
+**Estado:** en uso por un hogar pequeño. · **Sitio:** [academyx-c0135.web.app](https://academyx-c0135.web.app/) (acceso con cuenta)
 
 <p>
   <img src="img/inicio.png" width="190" alt="Inicio">
