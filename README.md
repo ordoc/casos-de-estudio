@@ -1,6 +1,6 @@
 # Casos de estudio
 
-Cinco aplicaciones web que he construido entre julio y noviembre de 2026. **El código fuente es privado**: este repositorio documenta qué hace cada una, cómo está armada y qué decisiones se tomaron, con cifras verificables de sus repositorios.
+Cinco aplicaciones web que he construido en el año 2026. **El código fuente es privado**: este repositorio documenta qué hace cada una, cómo está armada y qué decisiones se tomaron, con cifras verificables de sus repositorios.
 
 > Las construí con apoyo de asistentes de IA: yo defino los requisitos, reviso, pruebo y decido; la IA acelera la escritura. Por eso dejo a la vista las pruebas automáticas y las decisiones, que son lo que se puede comprobar.
 
