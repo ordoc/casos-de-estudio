@@ -9,8 +9,8 @@ Cinco aplicaciones web que he construido en el año 2026. **El código fuente es
 | [Cosechas](proyectos/cosechas/) | Finanzas familiares con contexto colombiano | React, TypeScript, Firebase | 124 | Beta cerrada por invitación |
 | [Ordoc English](proyectos/ordoc-english/) | Aprendizaje de inglés adaptado a la vida real, con IA | Next.js, Firebase, Gemini | 172 | En uso por un hogar pequeño |
 | [Aprendiendo con ORDOC](proyectos/ordocedtech/) | Ruta gratuita en español para el examen PL-300 de Power BI | Next.js, Supabase, MDX | 79 | En construcción |
-| [FamilyGym](proyectos/familygym/) | Bienestar y movimiento en familia, con gamificación | React, Firebase | 436 | Uso privado |
-| [AcademyX](proyectos/academyx/) | Organización escolar familiar con gamificación y asistente de IA | React, Firebase | 61 | Uso privado |
+| [FamilyGym](proyectos/familygym/) | Bienestar y movimiento en familia, con gamificación | React, Firebase | 436 | En uso por un grupo de familias pequeño |
+| [AcademyX](proyectos/academyx/) | Organización escolar familiar con gamificación y asistente de IA | React, Firebase | 61 | En uso por un hogar pequeño |
 
 *Cifras a 12 de noviembre de 2026, tomadas del historial de cada repositorio.*
 
