@@ -10,7 +10,7 @@ Aplicación de **bienestar familiar y gamificación**, pensada para fomentar el 
   <img src="img/explorar.png" width="260" alt="Pantalla Explorar">
 </p>
 
-*Hoy, Vitalidad y Explorar. Capturas de la aplicación, con el nombre del usuario sustituido por «User».*
+*Hoy, Vitalidad y Explorar. Capturas de la aplicación, con el nombre del usuario sustituido por «User» y la lista de hábitos recortada.*
 
 ## Qué ofrece
 
