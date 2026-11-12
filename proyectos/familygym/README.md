@@ -2,14 +2,24 @@
 
 Aplicación de **bienestar familiar y gamificación**, pensada para fomentar el movimiento y las pausas activas en casa. Lejos de los enfoques clínicos o de los rastreadores de gimnasio, convierte las rutinas en una experiencia lúdica y accesible para todas las edades.
 
-**Estado:** uso privado en familia. · **Sitio:** [gym-ordoc.web.app](https://gym-ordoc.web.app/)
+**Estado:** uso privado en familia. · **Sitio:** [gym-ordoc.web.app](https://gym-ordoc.web.app/) (acceso con cuenta)
+
+<p>
+  <img src="img/hoy.png" width="260" alt="Pantalla Hoy">
+  <img src="img/vitalidad.png" width="260" alt="Pantalla Vitalidad">
+  <img src="img/explorar.png" width="260" alt="Pantalla Explorar">
+</p>
+
+*Hoy, Vitalidad y Explorar. Capturas de la aplicación, con el nombre del usuario sustituido por «User».*
 
 ## Qué ofrece
 
+- **Hoy:** registro del estado de ánimo y de la energía, un plan del día con una rutina sugerida (por ejemplo, fuerza activa en unos 14 minutos), accesos a pausas activas y a baile, y una lista de hábitos del día.
+- **Vitalidad:** plan semanal de movimiento, rachas de movimiento y de hábitos, check-ins del mes, movimiento familiar y un rango de análisis de 7, 30 o 90 días.
+- **Explorar:** buscador y categorías: juegos infantiles, pausas activas, fuerza y vitalidad, movilidad para mayores, favoritos, prácticas guiadas, dimensión espiritual y dimensión mental, además de la creación de actividades propias.
 - **Zonas de vitalidad:** ejercicios agrupados por colores, en vez de por músculos.
-- **Creador de rutinas por bloques,** con una interacción tipo «piezas de construcción».
-- **Mapa de energía abstracto,** que reemplaza los diagramas musculares clínicos.
-- **Pensada para toda la familia,** con rutinas fáciles de seguir y ejercicios personalizados.
+- **Compañero flotante** que saluda y orienta en cada pantalla.
+- **Pensada para toda la familia,** desde niños hasta adultos mayores.
 
 ## Stack
 
