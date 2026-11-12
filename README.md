@@ -14,6 +14,20 @@ Cinco aplicaciones web que he construido en el año 2026. **El código fuente es
 
 *Cifras a 12 de noviembre de 2026, tomadas del historial de cada repositorio.*
 
+## Medición dentro de cada aplicación
+
+Todas las aplicaciones miden su propio uso. Quien las usa ve su avance en un panel, y en varias el administrador ve cómo se usa el producto, siempre con cifras agregadas.
+
+| Proyecto | Panel para quien la usa | Panel para el administrador |
+|---|---|---|
+| Cosechas | Análisis de gastos, ingresos, ahorro y patrimonio, y del comportamiento de gasto | Panel de uso: cuántos registros entran, de qué origen y en qué semana, sin leer descripciones, montos ni cuentas |
+| Ordoc English | Panel diario, progreso, analítica personal e informe semanal | Métricas de enganche: activos a 7 y 30 días, retención, sesiones, contenido repetido y qué se practica |
+| Aprendiendo con ORDOC | Panel de estudio: racha, minutos por semana, precisión por dominio, temas débiles y ritmo frente al plan | Aprobación de contenido e invitaciones; las estadísticas agregadas, con consentimiento, están en preparación |
+| FamilyGym | Vitalidad: rachas, check-ins, plan semanal y rango de análisis | Panel de telemetría con eventos que separa la actividad humana de la técnica del sistema |
+| AcademyX | Rendimiento por materia, rueda de metas y repaso semanal | Gasto de IA por día, con límites por hijo, por familia y global |
+
+Medir tiene un costo en privacidad, así que cada panel agrega: cuenta eventos y no lee el contenido personal.
+
 ## Cómo trabajo
 
 - **Pruebas y control de calidad desde el inicio:** pruebas unitarias, de reglas de seguridad de la base de datos y de navegador, con integración continua donde aplica.

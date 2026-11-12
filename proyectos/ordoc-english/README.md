@@ -19,6 +19,11 @@ Aplicación de aprendizaje de **inglés con IA**, pensada primero para el celula
 
 Next.js 16 (App Router) · React 19 · TypeScript · Firebase (Authentication, Firestore) · Google Gemini · Recharts · GitHub Actions
 
+## Medición
+
+- **Para quien la usa:** panel diario, progreso, una página de analítica personal y un informe semanal.
+- **Para el administrador:** *métricas de enganche*, con usuarios registrados, activos en los últimos 7 y 30 días, retención por día desde el registro, sesiones, porcentaje de contenido repetido y qué actividades se practican más. Las cifras se calculan en el servidor y se guardan una hora en caché. Hay además un panel de uso.
+
 ## En cifras
 
 | | |

@@ -28,6 +28,11 @@ Aplicación de **organización escolar familiar con gamificación**, instalable 
 
 React · Vite · JavaScript y TypeScript · Firebase (Authentication, Firestore, Cloud Functions, Hosting) · PWA · GitHub Actions
 
+## Medición
+
+- **Para quien la usa:** rendimiento por materia con áreas a reforzar, una rueda de metas y un repaso semanal.
+- **Para el administrador:** un panel con el gasto de IA por día y límites configurables por hijo, por familia y globales, además del listado de familias y de las solicitudes de acceso.
+
 ## En cifras
 
 | | |

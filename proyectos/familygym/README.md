@@ -25,6 +25,11 @@ Aplicación de **bienestar familiar y gamificación**, pensada para fomentar el 
 
 React · Zustand · Vite · Firebase (Authentication, Firestore, Hosting, Cloud Functions) · GitHub Actions
 
+## Medición
+
+- **Para quien la usa:** la pantalla de Vitalidad, con rachas, check-ins del mes y un rango de análisis de 7, 30 o 90 días.
+- **Para el administrador:** un panel de telemetría que registra los eventos de la aplicación y los muestra en indicadores y gráficos. Separa de forma estricta la actividad humana (por ejemplo, pausas activas completadas) de la telemetría técnica del sistema, como el uso del asistente de IA.
+
 ## En cifras
 
 | | |

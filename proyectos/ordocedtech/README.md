@@ -17,6 +17,11 @@ Plataforma de cursos en español. El primer curso es una **ruta gratuita para pr
 
 Next.js 16 · React 19 · TypeScript estricto · Tailwind · Supabase (Auth y Postgres con seguridad por fila) · MDX · Vitest · Vercel
 
+## Medición
+
+- **Para quien la usa:** un panel de estudio con racha actual y mejor racha, minutos de la semana y totales, sesiones, precisión por dominio del examen, temas más débiles y un ritmo que compara las horas restantes con el plan.
+- **Para el administrador:** hoy cubre la aprobación de contenido y las invitaciones. Las estadísticas agregadas y anónimas están en preparación, con un consentimiento explícito de cada persona.
+
 ## En cifras
 
 | | |

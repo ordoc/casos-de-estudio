@@ -21,6 +21,11 @@ Aplicación web instalable (PWA) de **finanzas familiares**, pensada para el cel
 
 React 19 · TypeScript · Vite · Firebase (Authentication, Firestore, Hosting) · Recharts · PWA · Vitest · GitHub Actions
 
+## Medición
+
+- **Para quien la usa:** análisis de gastos, ingresos, ahorro y patrimonio, y un análisis del comportamiento de gasto.
+- **Para el administrador:** un panel de uso con cifras agregadas para saber si la app se usa y cuánto del registro entra solo (SMS, mensaje pegado, extracto o recurrente, frente a a mano). Solo cuenta cuántos, de qué origen y en qué semana: nunca lee ni muestra descripciones, montos ni cuentas.
+
 ## En cifras
 
 | | |
