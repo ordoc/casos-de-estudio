@@ -30,8 +30,8 @@ React 19 · TypeScript · Vite · Firebase (Authentication, Firestore, Hosting) 
 
 | | |
 |---|---|
-| Commits | 124 (5 al 30 de octubre de 2026) |
-| Archivos de prueba | 101, incluidas pruebas de las reglas de seguridad de la base de datos |
+| Pruebas automáticas | Más de 1.100, incluidas pruebas de las reglas de seguridad de la base de datos |
+| Desarrollo | 5 al 30 de octubre de 2026 |
 | Integración continua | Lint, verificación de tipos, pruebas, build y presupuesto de rendimiento: el flujo falla si el paquete de JavaScript lo supera |
 
 ## Decisiones que vale la pena contar

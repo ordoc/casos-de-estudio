@@ -26,9 +26,9 @@ Next.js 16 · React 19 · TypeScript estricto · Tailwind · Supabase (Auth y Po
 
 | | |
 |---|---|
-| Commits | 79 (10 y 11 de noviembre de 2026) |
-| Lecciones escritas | 9, con unas 10 mil palabras y 81 preguntas de quiz |
-| Archivos de prueba | 29, más pruebas de navegador manuales |
+| Lecciones escritas | 9 de 91 temas, con unas 10 mil palabras y 81 preguntas de quiz |
+| Pruebas automáticas | Más de 250, más pruebas de navegador manuales |
+| Desarrollo | Desde el 10 de noviembre de 2026 |
 
 ## Decisiones de calidad
 

@@ -4,15 +4,15 @@ Cinco aplicaciones web que he construido en el año 2026. **El código fuente es
 
 > Las construí con apoyo de asistentes de IA: yo defino los requisitos, reviso, pruebo y decido; la IA acelera la escritura. Por eso dejo a la vista las pruebas automáticas y las decisiones, que son lo que se puede comprobar.
 
-| Proyecto | Qué es | Stack principal | Commits | Estado |
+| Proyecto | Qué es | Stack principal | Pruebas automáticas | Estado |
 |---|---|---|---|---|
-| [Cosechas](proyectos/cosechas/) | Finanzas familiares con contexto colombiano | React, TypeScript, Firebase | 124 | Beta cerrada por invitación |
-| [Ordoc English](proyectos/ordoc-english/) | Aprendizaje de inglés adaptado a la vida real, con IA | Next.js, Firebase, Gemini | 172 | En uso por un hogar pequeño |
-| [Aprendiendo con ORDOC](proyectos/ordocedtech/) | Ruta gratuita en español para el examen PL-300 de Power BI | Next.js, Supabase, MDX | 79 | En construcción |
-| [FamilyGym](proyectos/familygym/) | Bienestar y movimiento en familia, con gamificación | React, Firebase | 436 | En uso por un grupo de familias pequeño |
-| [AcademyX](proyectos/academyx/) | Organización escolar familiar con gamificación y asistente de IA | React, Firebase | 61 | En uso por un hogar pequeño |
+| [Cosechas](proyectos/cosechas/) | Finanzas familiares con contexto colombiano | React, TypeScript, Firebase | Más de 1.100 | Beta cerrada por invitación |
+| [Ordoc English](proyectos/ordoc-english/) | Aprendizaje de inglés adaptado a la vida real, con IA | Next.js, Firebase, Gemini | Más de 350 | En uso por un hogar pequeño |
+| [Aprendiendo con ORDOC](proyectos/ordocedtech/) | Ruta gratuita en español para el examen PL-300 de Power BI | Next.js, Supabase, MDX | Más de 250 | En construcción |
+| [FamilyGym](proyectos/familygym/) | Bienestar y movimiento en familia, con gamificación | React, Firebase | Cerca de 500 | En uso por un grupo de familias pequeño |
+| [AcademyX](proyectos/academyx/) | Organización escolar familiar con gamificación y asistente de IA | React, Firebase | Sin cifra | En uso por un hogar pequeño |
 
-*Cifras a 12 de noviembre de 2026, tomadas del historial de cada repositorio.*
+*Cifras a 12 de noviembre de 2026. Las pruebas se cuentan como casos de prueba escritos en cada repositorio, de forma aproximada. En AcademyX las pruebas usan otro estilo y no se pudieron contar.*
 
 ## Medición dentro de cada aplicación
 

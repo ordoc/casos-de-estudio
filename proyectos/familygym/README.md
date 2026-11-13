@@ -34,8 +34,8 @@ React · Zustand · Vite · Firebase (Authentication, Firestore, Hosting, Cloud 
 
 | | |
 |---|---|
-| Commits | 436 (18 de julio al 16 de octubre de 2026) |
-| Archivos de prueba | 44, incluidas pruebas de las reglas de seguridad de la base de datos |
+| Pruebas automáticas | Cerca de 500, incluidas pruebas de las reglas de seguridad de la base de datos |
+| Desarrollo | 18 de julio al 16 de octubre de 2026 |
 | Integración continua | Sí, con dos flujos de trabajo: pruebas y despliegue |
 
 El proyecto tiene además auditorías funcional y técnica documentadas.

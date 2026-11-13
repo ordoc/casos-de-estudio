@@ -37,8 +37,8 @@ React · Vite · JavaScript y TypeScript · Firebase (Authentication, Firestore,
 
 | | |
 |---|---|
-| Commits | 61 (19 de agosto al 13 de octubre de 2026) |
-| Archivos de prueba | 14: unitarias, de navegador y de reglas de seguridad |
+| Pruebas automáticas | Unitarias, de navegador y de reglas de seguridad |
+| Desarrollo | 19 de agosto al 13 de octubre de 2026 |
 | Despliegue | Automático desde GitHub Actions |
 
 ## Calidad

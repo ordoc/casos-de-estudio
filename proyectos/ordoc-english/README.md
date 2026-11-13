@@ -28,8 +28,8 @@ Next.js 16 (App Router) · React 19 · TypeScript · Firebase (Authentication, F
 
 | | |
 |---|---|
-| Commits | 172 (4 de julio al 7 de noviembre de 2026) |
-| Archivos de prueba | 65 (unitarias y de navegador) |
+| Pruebas automáticas | Más de 350 (unitarias y de navegador) |
+| Desarrollo | 4 de julio al 7 de noviembre de 2026 |
 | Integración continua | Sí |
 
 ## Decisiones de diseño
